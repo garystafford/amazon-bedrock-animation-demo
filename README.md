@@ -19,6 +19,62 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 - [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
 - [Sample generated videos](./content/generated_videos/generated_video_samples/)
 
+<table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/phoenix_3.png" alt="Text-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/samuri.jpg" alt="Text-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/batman_pixar.jpg" alt="Text-to-Image" width="256"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_images/image_to_image_samples/image_to_image_02.png" alt="Image-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/image_to_image_samples/image_to_image_07.png" alt="Image-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/image_to_image_samples/image_to_image_05.png" alt="Image-to-Image" width="256"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <video width="256" controls>
+                <source src="./content/generated_videos/generated_video_samples/younger_man_selfie.mp4" type="video/mp4"/>
+            </video>
+        </td>
+        <td>
+            <video width="256" controls>
+                <source src="./content/generated_videos/generated_video_samples/older_man_selfie.mp4" type="video/mp4"/>
+            </video>
+        </td>
+        <td>
+            <video width="256" controls>
+                <source src="./content/generated_videos/generated_video_samples/happy_guy.mp4" type="video/mp4"/>
+            </video>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <video width="640" controls>
+                <source src="./content/generated_videos/generated_video_samples/dancing_man.mp4" type="video/mp4"/>
+            </video>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <video width="640" controls>
+                <source src="./content/generated_videos/generated_video_samples/red_squirrel.mp4" type="video/mp4"/>
+            </video>
+        </td>
+    </tr>
+</table>
+
 ## Technologies
 
 - **Amazon Bedrock**: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API
