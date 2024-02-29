@@ -10,6 +10,10 @@ In this 3-part demonstration we will learn how to use the AWS SDK for Python (Bo
 
 All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube video](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2).
 
+## Sample Generated Frames and Videos
+
+Sample [generated images](./content/generated_images/), [generated video frames](./content/generated_frames/generated_frame_samples/), and [generated videos](./content/generated_videos/generated_video_samples/) are now also included in the GitHub project.
+
 ## Technologies
 
 - **Amazon Bedrock**: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API
