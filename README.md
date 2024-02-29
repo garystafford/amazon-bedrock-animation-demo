@@ -12,7 +12,10 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 
 ## Sample Generated Images, Frames, and Videos
 
-Sample [generated images](./content/generated_images/), [generated video frames](./content/generated_frames/generated_frame_samples/), and [generated videos](./content/generated_videos/generated_video_samples/) are now also included in the GitHub project.
+- [Sample generated text-to-image images](./content/generated_images/text_to_image_samples/)
+- [Sample generated image-to-image images](./content/generated_images/image_to_image_samples/)
+- [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
+- [Sample generated videos](./content/generated_videos/generated_video_samples/)
 
 ## Technologies
 
