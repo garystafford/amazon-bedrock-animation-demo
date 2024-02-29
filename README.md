@@ -64,7 +64,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 
 ### Videos
 
-&nbsp; [![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/older_man_selfi.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfiee.mp4)
+&nbsp; [![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/older_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfie.mp4)
 
 &nbsp; [![Video Name](./previews/image_1709057498.jpg)](./content/generated_videos/generated_video_samples/older_clay_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/frame_1708827634.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
 
