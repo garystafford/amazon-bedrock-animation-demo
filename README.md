@@ -8,7 +8,7 @@ In this 3-part demonstration we will learn how to use the AWS SDK for Python (Bo
 2. Image-to-image
 3. Video-to-video (video-frame-frame-video)
 
-All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb).
+All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube video](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2).
 
 ## Technologies
 
