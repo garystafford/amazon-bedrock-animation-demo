@@ -242,7 +242,7 @@ pyrightconfig.json
 content/source_videos/
 content/source_frames/
 content/generated_frames/
-content/generated_videos/
+# content/generated_videos/
 
 bedrock-venv/
 
