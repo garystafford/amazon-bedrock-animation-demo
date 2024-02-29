@@ -10,6 +10,8 @@ In this 3-part demonstration we will learn how to use the AWS SDK for Python (Bo
 
 All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube video](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2).
 
+[![Video](./diagram/title-slide.png)](https://youtu.be/94irLcJA9eA?si=wgScZAdAJc3JTFZb "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL")
+
 ## Sample Generated Images, Frames, and Videos
 
 - [Sample generated text-to-image images](./content/generated_images/text_to_image_samples/)
