@@ -12,6 +12,16 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 
 [![Video](./diagram/title-slide.png)](https://youtu.be/94irLcJA9eA?si=wgScZAdAJc3JTFZb "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL")
 
+## Technologies
+
+- **Amazon Bedrock**: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API
+- **Stable Diffusion XL Model**: Stable Diffusion XL or SDXL is the latest image generation model that is tailored towards more photorealistic outputs with more detailed imagery and composition compared to previous SD models, including SD 2.1. Stable Diffusion XL is a significant advancement in image generation capabilities, offering enhanced image composition and face generation that results in stunning visuals and realistic aesthetics.
+
+## References
+
+- [Amazon Bedrock SDXL 1.0 Documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-diffusion-1-0-image-image.html)
+- [Stability.ai API Documentation](https://platform.stability.ai/docs/api-reference#tag/v1generation/operation/imageToImage)
+
 ## Sample Generated Images, Frames, and Videos
 
 - [Sample generated text-to-image images](./content/generated_images/text_to_image_samples/)
@@ -61,17 +71,6 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 &nbsp; [![Video Name](./previews/image_1708889312.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
 
 &nbsp; [![Video Name](./previews/frame_1708718938.jpg)](./content/generated_videos/generated_video_samples/red_squirrel.mp4)
-
-
-## Technologies
-
-- **Amazon Bedrock**: Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon via a single API
-- **Stable Diffusion XL Model**: Stable Diffusion XL or SDXL is the latest image generation model that is tailored towards more photorealistic outputs with more detailed imagery and composition compared to previous SD models, including SD 2.1. Stable Diffusion XL is a significant advancement in image generation capabilities, offering enhanced image composition and face generation that results in stunning visuals and realistic aesthetics.
-
-## References
-
-- [Amazon Bedrock SDXL 1.0 Documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-diffusion-1-0-image-image.html)
-- [Stability.ai API Documentation](https://platform.stability.ai/docs/api-reference#tag/v1generation/operation/imageToImage)
 
 ## State-of-the-Art Generative AI Animation
 
