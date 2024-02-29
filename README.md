@@ -30,8 +30,14 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         <td>
             <img src="./content/generated_images/text_to_image_samples/batman_pixar.jpg" alt="Text-to-Image" width="256"/>
         </td>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/dragon.jpg" alt="Text-to-Image" width="256"/>
+        </td>
     </tr>
     <tr>
+        <td>
+            <img src="./content/source_images/image_samples/bird_cropped.jpg" alt="Image-to-Image" width="256"/>
+        </td>
         <td>
             <img src="./content/generated_images/image_to_image_samples/image_to_image_02.png" alt="Image-to-Image" width="256"/>
         </td>
@@ -55,19 +61,24 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         </td>
         <td>
             <video width="256" controls>
+                <source src="./content/generated_videos/generated_video_samples/older_clay_man_selfie.mp4" type="video/mp4"/>
+            </video>
+        </td>
+        <td>
+            <video width="256" controls>
                 <source src="./content/generated_videos/generated_video_samples/happy_guy.mp4" type="video/mp4"/>
             </video>
         </td>
     </tr>
     <tr>
-        <td colspan="3">
+        <td colspan="4">
             <video width="640" controls>
                 <source src="./content/generated_videos/generated_video_samples/dancing_man.mp4" type="video/mp4"/>
             </video>
         </td>
     </tr>
     <tr>
-        <td colspan="3">
+        <td colspan="4">
             <video width="640" controls>
                 <source src="./content/generated_videos/generated_video_samples/red_squirrel.mp4" type="video/mp4"/>
             </video>
