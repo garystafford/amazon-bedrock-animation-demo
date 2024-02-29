@@ -19,6 +19,8 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 - [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
 - [Sample generated videos](./content/generated_videos/generated_video_samples/)
 
+### Images
+
 <table border="0" cellspacing="10" cellpadding="10">
     <tr>
         <td>
@@ -48,43 +50,14 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
             <img src="./content/generated_images/image_to_image_samples/image_to_image_05.png" alt="Image-to-Image" width="256"/>
         </td>
     </tr>
-    <tr>
-        <td>
-            <video width="256" controls>
-                <source src="./content/generated_videos/generated_video_samples/younger_man_selfie.mp4" type="video/mp4"/>
-            </video>
-        </td>
-        <td>
-            <video width="256" controls>
-                <source src="./content/generated_videos/generated_video_samples/older_man_selfie.mp4" type="video/mp4"/>
-            </video>
-        </td>
-        <td>
-            <video width="256" controls>
-                <source src="./content/generated_videos/generated_video_samples/older_clay_man_selfie.mp4" type="video/mp4"/>
-            </video>
-        </td>
-        <td>
-            <video width="256" controls>
-                <source src="./content/generated_videos/generated_video_samples/happy_guy.mp4" type="video/mp4"/>
-            </video>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="4">
-            <video width="640" controls>
-                <source src="./content/generated_videos/generated_video_samples/dancing_man.mp4" type="video/mp4"/>
-            </video>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="4">
-            <video width="640" controls>
-                <source src="./content/generated_videos/generated_video_samples/red_squirrel.mp4" type="video/mp4"/>
-            </video>
-        </td>
-    </tr>
 </table>
+
+### Videos
+
+&nbsp; [![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/older_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/image_1709057498.jpg)](./content/generated_videos/generated_video_samples/older_clay_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/frame_1708827634.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
+
+&nbsp; [![Video Name](./previews/image_1708889312.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/frame_1708718938.jpg)](./content/generated_videos/generated_video_samples/red_squirrel.mp4)
+
 
 ## Technologies
 
