@@ -29,7 +29,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 - [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
 - [Sample generated videos](./content/generated_videos/generated_video_samples/)
 
-### Images
+### Text-to-Images
 
 <table border="0" cellspacing="10" cellpadding="10">
     <tr>
@@ -46,6 +46,11 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
             <img src="./content/generated_images/text_to_image_samples/dragon.jpg" alt="Text-to-Image" width="256"/>
         </td>
     </tr>
+</table>
+
+### Image-to-Images
+
+<table border="0" cellspacing="10" cellpadding="10">
     <tr>
         <td>
             <img src="./content/source_images/image_samples/bird_cropped.jpg" alt="Image-to-Image" width="256"/>
@@ -62,15 +67,17 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
     </tr>
 </table>
 
-### Videos
+### Videos-to-Video
 
 &nbsp; [![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/older_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfie.mp4)
 
 &nbsp; [![Video Name](./previews/image_1709057498.jpg)](./content/generated_videos/generated_video_samples/older_clay_man_selfie.mp4)&nbsp; &nbsp; &nbsp;[![Video Name](./previews/frame_1708827634.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
 
-&nbsp; [![Video Name](./previews/image_1708889312.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
-
 &nbsp; [![Video Name](./previews/frame_1708718938.jpg)](./content/generated_videos/generated_video_samples/red_squirrel.mp4)
+
+&nbsp; [![Video Name](./previews/image_1709260396.jpg)](./content/generated_videos/generated_video_samples/female_dancer.mp4)
+
+&nbsp; [![Video Name](./previews/image_1708889312.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
 
 ## State-of-the-Art Generative AI Animation
 
