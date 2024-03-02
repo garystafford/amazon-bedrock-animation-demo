@@ -27,7 +27,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 - [Sample generated text-to-image images](./content/generated_images/text_to_image_samples/)
 - [Sample generated image-to-image images](./content/generated_images/image_to_image_samples/)
 - [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
-- [Sample generated videos](./content/generated_videos/generated_video_samples/)
+- [Sample generated animated GIFs](./content/generated_videos/animated_gif_samples/)
 
 ### Text-to-Images Samples
 
@@ -45,6 +45,9 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         <td>
             <img src="./content/generated_images/text_to_image_samples/dragon.jpg" alt="Text-to-Image" width="256"/>
         </td>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/girl_autumn_2.jpg" alt="Text-to-Image" width="256"/>
+        </td>
     </tr>
 </table>
 
@@ -57,6 +60,9 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         </td>
         <td>
             <img src="./content/generated_images/image_to_image_samples/image_to_image_02.png" alt="Image-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/image_to_image_samples/image_to_image_03.png" alt="Image-to-Image" width="256"/>
         </td>
         <td>
             <img src="./content/generated_images/image_to_image_samples/image_to_image_07.png" alt="Image-to-Image" width="256"/>
