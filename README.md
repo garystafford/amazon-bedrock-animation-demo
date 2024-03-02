@@ -67,31 +67,51 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
     </tr>
 </table>
 
-### Video-to-Video Samples
+### Video-to-Video Samples (Animated GIFs)
 
 <table border="0" cellspacing="10" cellpadding="10">
     <tr>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/squirrel.gif" alt="Video-to-Image" width="512"/>
+        </td>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image" width="512"/>
+        </td>
+    </tr>
+    <tr>
         <td>
-            <img src="./previews/girl_yellow_pink.gif" alt="Image-to-Image" width="256"/>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_old.gif" alt="Video-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_clay.gif" alt="Video-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image" width="256"/>
         </td>
     </tr>
 </table>
 
-### Video-to-Video Samples
-
-&nbsp; [![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/older_man_selfie.mp4)
-
-&nbsp; [![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfie.mp4)
-
-&nbsp; [![Video Name](./previews/frame_1708827634.jpg)](./content/generated_videos/generated_video_samples/happy_guy.mp4)
-
-&nbsp; [![Video Name](./previews/frame_1708718938.jpg)](./content/generated_videos/generated_video_samples/red_squirrel.mp4)
-
-&nbsp; [![Video Name](./previews/image_1708889312.jpg)](./content/generated_videos/generated_video_samples/dancing_man.mp4)
-
-&nbsp; [![Video Name](./previews/image_1709260396.jpg)](./content/generated_videos/generated_video_samples/female_dancer.mp4)
-
-&nbsp; [![Video Name](./previews/image_1709347421.jpg)](./content/generated_videos/generated_video_samples/female_soft_focus.mp4)
+<table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image" width="461"/>
+        </td>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image" width="461"/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image" width="461"/>
+        </td>
+        <td colspan=2>
+            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image" width="461"/>
+        </td>
+    </tr>
+</table>
 
 ## State-of-the-Art Generative AI Animation
 
