@@ -69,6 +69,16 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 
 ### Video-to-Video Samples
 
+<table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./previews/girl_yellow_pink.gif" alt="Image-to-Image" width="256"/>
+        </td>
+    </tr>
+</table>
+
+### Video-to-Video Samples
+
 &nbsp; [![Video Name](./previews/image_1708907221.jpg)](./content/generated_videos/generated_video_samples/older_man_selfie.mp4)
 
 &nbsp; [![Video Name](./previews/image_1708914994.jpg)](./content/generated_videos/generated_video_samples/younger_man_selfie.mp4)
