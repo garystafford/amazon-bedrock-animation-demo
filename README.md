@@ -48,6 +48,14 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
             <img src="./content/generated_images/text_to_image_samples/dragon.jpg" alt="Text-to-Image" width="256"/>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/girl_autumn_2.jpg" alt="Text-to-Image" width="256"/>
+        </td>
+        <td>
+            <img src="./content/generated_images/text_to_image_samples/cat_fish.jpg" alt="Text-to-Image" width="256"/>
+        </td>
+    </tr>
 </table>
 
 ### Image-to-Images Samples
@@ -97,11 +105,11 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
             <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"  width="448"/>
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image"  width="448"/>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image"  width="448"/>
