@@ -76,14 +76,6 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"/>
-        </td>
-    </tr>
-</table>
-
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
-    <tr>
-        <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image"  width="256"/>
         </td>
     </tr>
@@ -100,6 +92,11 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 </table>
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"  width="448"/>
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image"  width="448"/>
