@@ -72,31 +72,12 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/squirrel.gif" alt="Video-to-Image" width="512"/>
+            <img src="./content/generated_videos/animated_gif_samples/squirrel.gif" alt="Video-to-Image"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image" width="512"/>
-        </td>
-    </tr>
-</table>
-
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image" width="256"/>
-        </td>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_old.gif" alt="Video-to-Image" width="256"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_clay.gif" alt="Video-to-Image" width="256"/>
-        </td>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image" width="256"/>
+            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image"/>
         </td>
     </tr>
 </table>
@@ -104,22 +85,41 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image" width="461"/>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image" />
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_old.gif" alt="Video-to-Image" />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image" width="461"/>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_clay.gif" alt="Video-to-Image" />
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image" />
+        </td>
+    </tr>
+</table>
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image" />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image" width="461"/>
+            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image" />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image" width="461"/>
+            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image" />
         </td>
     </tr>
 </table>
