@@ -72,12 +72,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/squirrel.gif" alt="Video-to-Image"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image"/>
+            <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"/>
         </td>
     </tr>
 </table>
@@ -106,8 +101,6 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image" />
         </td>
-    </tr>
-    <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image" />
         </td>
@@ -116,10 +109,19 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image" />
         </td>
-    </tr>
-    <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image" />
+        </td>
+    </tr>
+</table>
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/red_squirrel.gif" alt="Video-to-Image"/>
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image" />
         </td>
     </tr>
 </table>
