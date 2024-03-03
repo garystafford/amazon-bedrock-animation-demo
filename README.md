@@ -87,10 +87,10 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         </td>
     </tr>
     <tr>
-        <td>
+        <!-- <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_clay.gif" alt="Video-to-Image" />
-        </td>
-        <td>
+        </td> -->
+        <td colspan=2>
             <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image" />
         </td>
     </tr>
