@@ -117,6 +117,11 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
     </tr>
     <tr>
         <td>
+            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image"  width="448"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image"  width="448"/>
         </td>
     </tr>
