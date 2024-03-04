@@ -86,12 +86,13 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #1
         </td>
-    </tr>
-    <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_old.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #2
         </td>
     </tr>
+</table>
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image"  width="256"/><br/>Happy Guy Variation #1
