@@ -81,6 +81,8 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 
 ### Part 3: Video-to-Video Samples (Animated GIFs)
 
+Original MP4 video files, created with FFPmpeg, converted to scaled down animated GIF files.
+
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
