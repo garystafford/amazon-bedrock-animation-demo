@@ -29,7 +29,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
 - [Sample generated video frames](./content/generated_frames/generated_frame_samples/)
 - [Sample generated animated GIFs](./content/generated_videos/animated_gif_samples/)
 
-### Text-to-Images Samples
+### Part 1: Text-to-Images Samples
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
@@ -58,7 +58,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
     </tr>
 </table>
 
-### Image-to-Images Samples
+### Part 2: Image-to-Images Samples
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
@@ -79,7 +79,7 @@ All instructions for this project can be found in the [Jupyter Notebook](./bedro
     </tr>
 </table>
 
-### Video-to-Video Samples (Animated GIFs)
+### Part 3: Video-to-Video Samples (Animated GIFs)
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
