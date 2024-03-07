@@ -8,9 +8,13 @@ In this 3-part demonstration we will learn how to use the AWS SDK for Python (Bo
 2. Image-to-image
 3. Video-to-video (video-frame-frame-video)
 
-All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube video](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2).
+All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2) video.
 
 [![Video](./diagram/title-slide.png)](https://youtu.be/94irLcJA9eA?si=wgScZAdAJc3JTFZb "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL")
+
+There is second video containing several sample animations available on [YouTube](https://youtu.be/_FC3a1h2JYY?si=AMo_t5tXyx5RB1Q7).
+
+[![Video](./diagram/video-samples-title.jpg)](https://youtu.be/_FC3a1h2JYY?si=AMo_t5tXyx5RB1Q7 "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL: Sample Video Results v4")
 
 ## Technologies
 
@@ -105,7 +109,7 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"  width="448"/><br/>Owl Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl Variation #1
         </td>
     </tr>
     <!-- <tr>
