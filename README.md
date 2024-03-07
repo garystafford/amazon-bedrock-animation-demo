@@ -94,13 +94,13 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
 </table>
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<!-- <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image"  width="256"/><br/>Happy Guy Variation #1
         </td>
     </tr>
-</table>
+</table> -->
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
@@ -113,11 +113,11 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #1
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #2
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
@@ -126,6 +126,11 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/persian_male.gif" alt="Video-to-Image"  width="448"/><br/>Persian Male Variation #1
         </td>
     </tr>
     <tr>
