@@ -10,11 +10,11 @@ In this 3-part demonstration we will learn how to use the AWS SDK for Python (Bo
 
 All instructions for this project can be found in the [Jupyter Notebook](./bedrock_image_generation_demo.ipynb) and on the accompanying [YouTube](https://youtu.be/94irLcJA9eA?si=po_xj-EHkbl_lfD2) video.
 
-[![Video](./diagram/title-slide.png)](https://youtu.be/94irLcJA9eA?si=wgScZAdAJc3JTFZb "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL")
+[![Video](./assets/title-slide.png)](https://youtu.be/94irLcJA9eA?si=wgScZAdAJc3JTFZb "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL")
 
 There is second video containing several sample animations available on [YouTube](https://youtu.be/_FC3a1h2JYY?si=AMo_t5tXyx5RB1Q7).
 
-[![Video](./diagram/video-samples-title.jpg)](https://youtu.be/_FC3a1h2JYY?si=AMo_t5tXyx5RB1Q7 "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL: Sample Video Results v4")
+[![Video](./assets/video-samples-title.jpg)](https://youtu.be/_FC3a1h2JYY?si=AMo_t5tXyx5RB1Q7 "Generative AI Video Animations with Amazon Bedrock and Stable Diffusion XL: Sample Video Results v4")
 
 ## Technologies
 
@@ -163,7 +163,14 @@ This demonstration was very basic. If you are interested in state-of-the-art Gen
 - [Fine-tuned Stable Diffusion XL LoRAs](https://civitai.com/models)
 - [Hugging Face: LoRA the Explorer](https://huggingface.co/spaces/multimodalart/LoraTheExplorer)
 
-If you are looking for examples of state-of-the-art Generative AI-based animations, check out [Civitai](https://civitai.com/videos). << \***\* WARNING! HIGHLY INAPPROPRIATE CONTENT! \*\***
+If you are looking for examples of state-of-the-art Generative AI-based animations, check out [Civitai](https://civitai.com/videos). __WARNING! EXTREMELY INAPPROPRIATE CONTENT!__
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <a href="https://civitai.com/videos"><img src="./assets/civitai.png" alt="civitai"  width="512" border=1/></a>
+    </tr>
+</table>
 
 ### Basic ComfyUI Workflows
 
@@ -172,12 +179,10 @@ These are simple examples of ComfyUI workflows from Reddit's [ComfyUI](https://w
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./diagram/comfyui-example-1.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
-    </tr>
-    <tr>
+            <img src="./assets/comfyui-example-1.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
     </tr>
     <tr>
         <td>
-            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
+            <img src="./assets/comfyui-example-3.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
     </tr>
 </table>
