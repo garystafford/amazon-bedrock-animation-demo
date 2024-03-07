@@ -178,6 +178,6 @@ These are simple example of ComfyUI workflows used to create high-quality genera
     </tr>
     <tr>
         <td>
-            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512"/><br/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
+            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512"/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
     </tr>
 </table>
