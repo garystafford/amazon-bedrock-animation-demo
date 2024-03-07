@@ -151,15 +151,33 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 
 ## State-of-the-Art Generative AI Animation
 
-This demonstration is very basic. If you are interested in state-of-the-art Generative AI video techniques, I would suggest looking at a combination of the AnimateDiff, ControlNet, A1111 or ComfyUI, and a custom fine-tuned SDXL model. Most high-quality animations are created with fine-tuned SDXL LoRAs (Low-Rank Adaptation of Large Language Models). These tools can all be used on AWS using a GPU-based [Amazon WorkSpaces](https://aws.amazon.com/pm/workspaces/) environment.
+This demonstration was very basic. If you are interested in state-of-the-art Generative AI image and video generation techniques, I would suggest looking at a combination of the AnimateDiff, ControlNet, IP-Adapter, and A1111 or ComfyUI, along with the use of custom fine-tuned SDXL models. Most high-quality animations are created with multiple fine-tuned SDXL LoRAs (Low-Rank Adaptation of Large Language Models). These tools can all be used on AWS using a GPU-based [Amazon WorkSpaces](https://aws.amazon.com/pm/workspaces/) environment.
 
 - [Automatic1111 (aka A1111) Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [ComfyUI Stable Diffusion web UI](https://github.com/comfyanonymous/ComfyUI)
 - [AnimateDiff](https://animatediff.github.io/)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
+- [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter/)
 - [AnimateDiff for Stable Diffusion WebU (A1111)](https://github.com/continue-revolution/sd-webui-animatediff)
 - [ControlNet for Stable Diffusion WebUI (A1111)](https://github.com/Mikubill/sd-webui-controlnet)
 - [Fine-tuned Stable Diffusion XL LoRAs](https://civitai.com/models)
 - [Hugging Face: LoRA the Explorer](https://huggingface.co/spaces/multimodalart/LoraTheExplorer)
 
 If you are looking for examples of state-of-the-art Generative AI-based animations, check out [Civitai](https://civitai.com/videos). << \***\* WARNING! HIGHLY INAPPROPRIATE CONTENT! \*\***
+
+### Basic ComfyUI Workflows
+
+These are simple example of ComfyUI workflows used to create high-quality generative images. Many workflows are even more complex than the two shown below.
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./diagram/comfyui-example-1.webp" alt="Video-to-Image"  width="512"/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <td>
+            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512"/><br/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
+    </tr>
+</table>
