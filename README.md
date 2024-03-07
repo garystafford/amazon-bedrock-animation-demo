@@ -167,17 +167,17 @@ If you are looking for examples of state-of-the-art Generative AI-based animatio
 
 ### Basic ComfyUI Workflows
 
-These are simple example of ComfyUI workflows used to create high-quality generative images. Many workflows are even more complex than the two shown below.
+These are simple examples of ComfyUI workflows from Reddit's [ComfyUI](https://www.reddit.com/r/comfyui/) and [Stable Diffusion](https://www.reddit.com/r/StableDiffusion) communities, used to create high-quality generative images. Many workflows are even more complex than the two shown below.
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./diagram/comfyui-example-1.webp" alt="Video-to-Image"  width="512"/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
+            <img src="./diagram/comfyui-example-1.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
     </tr>
     <tr>
     </tr>
     <tr>
         <td>
-            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512"/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
+            <img src="./diagram/comfyui-example-3.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/StableDiffusion/comments/15cfiuk/tidying_up_comfyui_workflow_for_sdxl_to_fit_it_on/">ComfyUI Example 2</a>
     </tr>
 </table>
