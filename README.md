@@ -86,21 +86,21 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #1
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_old.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #2
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #2
         </td>
     </tr>
 </table>
 
-<!-- <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/happy_guy.gif" alt="Video-to-Image"  width="256"/><br/>Happy Guy Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2 Variation #1
         </td>
     </tr>
-</table> -->
+</table>
 
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
@@ -108,29 +108,29 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
             <img src="./content/generated_videos/animated_gif_samples/bejeweled_owl.gif" alt="Video-to-Image"  width="448"/><br/>Owl Variation #1
         </td>
     </tr>
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_1.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #1
-        </td>
-    </tr>
     <!-- <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_yellow_pink_2.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #2
+            <img src="./content/generated_videos/animated_gif_samples/female_1_v1.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #1
         </td>
     </tr> -->
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_2.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/female_1_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #2
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_soft_focus_1.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/female_2_v1.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/persian_male.gif" alt="Video-to-Image"  width="448"/><br/>Persian Male Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/female_2_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/male_1.gif" alt="Video-to-Image"  width="448"/><br/>Male 1 Variation #1
         </td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_dancer.gif" alt="Video-to-Image"   width="448"/><br/>Dancer Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/dancer.gif" alt="Video-to-Image"   width="448"/><br/>Dancer Variation #1
         </td>
     </tr>
 </table>
