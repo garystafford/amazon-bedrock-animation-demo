@@ -240,9 +240,10 @@ pyrightconfig.json
 
 # Custom
 content/source_videos/
-content/source_frames/
-# content/generated_frames/
-# content/generated_videos/
+content/source_frames/demo*
+content/generated_frames/demo*
+content/generated_videos/demo*
+content/generated_videos/vidlist.txt
 
 bedrock-venv/
 
