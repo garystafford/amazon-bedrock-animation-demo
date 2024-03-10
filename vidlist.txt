@@ -1,0 +1,2 @@
+file '/Users/garystafford/Documents/projects/amazon-bedrock-animation-demo/content/generated_videos/demo1.mp4'
+file '/Users/garystafford/Documents/projects/amazon-bedrock-animation-demo/content/generated_videos/demo1_reversed.mp4'
