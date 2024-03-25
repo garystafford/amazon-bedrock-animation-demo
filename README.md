@@ -90,21 +90,13 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie 1 v1
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="256"/><br/>Selfie Variation #2
-        </td>
-    </tr>
-</table>
-
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="256"/><br/>Selfie 1 v2
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_3.gif" alt="Video-to-Image"  width="221"/><br/>Male 3 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/selfie_2.gif" alt="Video-to-Image"  width="256"/><br/>Selfie 2
         </td>
     </tr>
 </table>
@@ -112,7 +104,18 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/male_3.gif" alt="Video-to-Image"  width="221"/><br/>Male 3
+        </td>
+    </tr>
+</table>
+
+<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl
         </td>
     </tr>
     <!-- <tr>
@@ -122,32 +125,32 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr> -->
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/female_1_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #2
+            <img src="./content/generated_videos/animated_gif_samples/female_1_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 v1
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/female_2_v1.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/female_2_v1.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 v1
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/female_2_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 2 Variation #2
+            <img src="./content/generated_videos/animated_gif_samples/female_2_v2.gif" alt="Video-to-Image"  width="448"/><br/>Female 3 v2
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_1.gif" alt="Video-to-Image"  width="448"/><br/>Male 1 Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/male_1.gif" alt="Video-to-Image"  width="448"/><br/>Male 1
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/red_squirrel.gif" alt="Video-to-Image"  width="448"/><br/>Red Squirrel Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/red_squirrel.gif" alt="Video-to-Image"  width="448"/><br/>Squirrel
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/dancer.gif" alt="Video-to-Image"   width="448"/><br/>Dancer Variation #1
+            <img src="./content/generated_videos/animated_gif_samples/dancer.gif" alt="Video-to-Image"   width="448"/><br/>Dancer
         </td>
     </tr>
 </table>
