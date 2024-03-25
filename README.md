@@ -35,7 +35,7 @@ There is second video containing several sample animations available on [YouTube
 
 ### Part 1: Text-to-Images Samples
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./content/generated_images/text_to_image_samples/phoenix_3.png" alt="Text-to-Image" width="256"/>
@@ -64,7 +64,7 @@ There is second video containing several sample animations available on [YouTube
 
 ### Part 2: Image-to-Images Samples
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./content/source_images/image_samples/bird_cropped.jpg" alt="Image-to-Image" width="256"/><br/>Original Image
@@ -87,7 +87,7 @@ There is second video containing several sample animations available on [YouTube
 
 Original MP4 video files, created with FFPmpeg, converted to scaled down animated GIF files.
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="256"/><br/>Selfie 1 v1
@@ -101,7 +101,7 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
 </table>
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2
@@ -112,7 +112,7 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
 </table>
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl
@@ -171,7 +171,7 @@ This demonstration was very basic. If you are interested in state-of-the-art Gen
 
 If you are looking for examples of state-of-the-art Generative AI-based animations, check out [Civitai](https://civitai.com/videos). __WARNING! EXTREMELY INAPPROPRIATE CONTENT!__
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <a href="https://civitai.com/videos"><img src="./assets/civitai.png" alt="civitai"  width="512" border=1/></a>
@@ -182,7 +182,7 @@ If you are looking for examples of state-of-the-art Generative AI-based animatio
 
 These are simple examples of ComfyUI workflows from Reddit's [ComfyUI](https://www.reddit.com/r/comfyui/) and [Stable Diffusion](https://www.reddit.com/r/StableDiffusion) communities, used to create high-quality generative images. Many workflows are even more complex than the two shown below.
 
-<table border="0px solid #FFFFFFF" cellspacing="10" cellpadding="10">
+<table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
             <img src="./assets/comfyui-example-1.webp" alt="Video-to-Image"  width="512" border=1/><br/><a href="https://www.reddit.com/r/comfyui/comments/15ek9ta/comfyui_workflow_for_dreamshaper_xl/">ComfyUI Example 1</a>
