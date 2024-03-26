@@ -90,13 +90,13 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="244"/><br/>Selfie 1 v1
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v1.gif" alt="Video-to-Image"  width="240"/><br/>Selfie 1 v1
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="244"/><br/>Selfie 1 v2
+            <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="240"/><br/>Selfie 1 v2
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/selfie_2.gif" alt="Video-to-Image"  width="244"/><br/>Selfie 2
+            <img src="./content/generated_videos/animated_gif_samples/selfie_2.gif" alt="Video-to-Image"  width="240"/><br/>Selfie 2
         </td>
     </tr>
 </table>
@@ -104,13 +104,13 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 <table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
     <tr>
         <td>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_3_v1.gif" alt="Video-to-Image"  width="221"/><br/>Selfie 3 v1
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/selfie_3_v2.gif" alt="Video-to-Image"  width="232"/><br/>Selfie 3 v2
+        </td>
+        <td>
             <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2
-        </td>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_3_v1.gif" alt="Video-to-Image"  width="221"/><br/>Male 3 v1
-        </td>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_3_v2.gif" alt="Video-to-Image"  width="232"/><br/>Male 3 v2
         </td>
     </tr>
 </table>
