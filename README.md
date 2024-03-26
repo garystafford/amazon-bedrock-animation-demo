@@ -107,7 +107,10 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
             <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2
         </td>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/male_3.gif" alt="Video-to-Image"  width="221"/><br/>Male 3
+            <img src="./content/generated_videos/animated_gif_samples/male_3_v1.gif" alt="Video-to-Image"  width="221"/><br/>Male 3 v1
+        </td>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/male_3_v2.gif" alt="Video-to-Image"  width="232"/><br/>Male 3 v2
         </td>
     </tr>
 </table>
