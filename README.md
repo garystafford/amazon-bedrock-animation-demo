@@ -153,7 +153,12 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/dancer.gif" alt="Video-to-Image"   width="448"/><br/>Dancer
+            <img src="./content/generated_videos/animated_gif_samples/dancer.gif" alt="Video-to-Image" width="448"/><br/>Dancer
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./content/generated_videos/animated_gif_samples/girl_in_snow.gif" alt="Video-to-Image" width="448"/><br/>Snowy Day
         </td>
     </tr>
 </table>
