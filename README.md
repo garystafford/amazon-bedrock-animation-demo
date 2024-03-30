@@ -95,10 +95,10 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_1_v2.gif" alt="Video-to-Image"  width="240"/><br/>Selfie 1 v2
         </td>
-        <td>
+<!--         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_2.gif" alt="Video-to-Image"  width="240"/><br/>Selfie 2
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 <table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
@@ -106,9 +106,9 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_3_v1.gif" alt="Video-to-Image"  width="221"/><br/>Selfie 3 v1
         </td>
-        <td>
+<!--         <td>
             <img src="./content/generated_videos/animated_gif_samples/selfie_3_v2.gif" alt="Video-to-Image"  width="232"/><br/>Selfie 3 v2
-        </td>
+        </td> -->
         <td>
             <img src="./content/generated_videos/animated_gif_samples/male_2.gif" alt="Video-to-Image"  width="256"/><br/>Male 2
         </td>
@@ -116,11 +116,6 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
 </table>
 
 <table border="0px solid #FFFFFFF" cellspacing="5" cellpadding="5">
-    <tr>
-        <td>
-            <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl
-        </td>
-    </tr>
     <!-- <tr>
         <td>
             <img src="./content/generated_videos/animated_gif_samples/female_1_v1.gif" alt="Video-to-Image"  width="448"/><br/>Female 1 Variation #1
@@ -143,6 +138,11 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
     <tr>
         <td>
+            <img src="./content/generated_videos/animated_gif_samples/owl_v1.gif" alt="Video-to-Image"  width="448"/><br/>Owl
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="./content/generated_videos/animated_gif_samples/male_1.gif" alt="Video-to-Image"  width="448"/><br/>Male 1
         </td>
     </tr>
@@ -158,7 +158,7 @@ Original MP4 video files, created with FFPmpeg, converted to scaled down animate
     </tr>
     <tr>
         <td>
-            <img src="./content/generated_videos/animated_gif_samples/girl_in_snow.gif" alt="Video-to-Image" width="448"/><br/>Snowy Day
+            <img src="./content/generated_videos/animated_gif_samples/girl_in_snow.gif" alt="Video-to-Image" width="256"/><br/>Snowy Day
         </td>
     </tr>
 </table>
